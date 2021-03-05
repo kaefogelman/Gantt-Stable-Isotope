@@ -3,71 +3,11 @@
 # Summary Statistics
 #################################################################
 
-DIC = -83.05946
+DIC = -22.69199
 
-                                               Mean    SD  2.5%    5%   25%
-Epsilon.1                                     0.040 0.028 0.005 0.007 0.019
-Epsilon.2                                     0.732 0.256 0.294 0.362 0.564
-p.A. hartfieldorum .epilimnion.SPOM           0.035 0.034 0.001 0.002 0.009
-p.E. pullata.epilimnion.SPOM                  0.027 0.033 0.000 0.001 0.005
-p.F. escambia.epilimnion.SPOM                 0.033 0.042 0.000 0.001 0.005
-p.A. hartfieldorum .hypolimnion.SPOM          0.039 0.044 0.000 0.001 0.010
-p.E. pullata.hypolimnion.SPOM                 0.027 0.032 0.000 0.000 0.005
-p.F. escambia.hypolimnion.SPOM                0.029 0.041 0.000 0.000 0.005
-p.A. hartfieldorum .limnetic.FPOM             0.086 0.061 0.007 0.012 0.040
-p.E. pullata.limnetic.FPOM                    0.157 0.120 0.003 0.006 0.052
-p.F. escambia.limnetic.FPOM                   0.071 0.073 0.002 0.004 0.019
-p.A. hartfieldorum .littoral.benthic.FPOM     0.030 0.031 0.000 0.000 0.005
-p.E. pullata.littoral.benthic.FPOM            0.027 0.035 0.000 0.000 0.003
-p.F. escambia.littoral.benthic.FPOM           0.019 0.024 0.000 0.000 0.003
-p.A. hartfieldorum .littoral.CPOM             0.043 0.043 0.003 0.005 0.013
-p.E. pullata.littoral.CPOM                    0.031 0.033 0.001 0.002 0.007
-p.F. escambia.littoral.CPOM                   0.032 0.042 0.001 0.001 0.006
-p.A. hartfieldorum .littoral.FPOM             0.091 0.070 0.004 0.010 0.036
-p.E. pullata.littoral.FPOM                    0.091 0.076 0.002 0.004 0.028
-p.F. escambia.littoral.FPOM                   0.132 0.109 0.002 0.005 0.033
-p.A. hartfieldorum .littoral.FPOM.attached    0.047 0.043 0.004 0.005 0.017
-p.E. pullata.littoral.FPOM.attached           0.049 0.056 0.001 0.002 0.010
-p.F. escambia.littoral.FPOM.attached          0.040 0.050 0.001 0.002 0.008
-p.A. hartfieldorum .littoral.FPOM.filamentous 0.047 0.050 0.001 0.001 0.009
-p.E. pullata.littoral.FPOM.filamentous        0.040 0.050 0.000 0.001 0.006
-p.F. escambia.littoral.FPOM.filamentous       0.037 0.048 0.000 0.001 0.005
-p.A. hartfieldorum .littoral.SPOM             0.041 0.041 0.004 0.005 0.014
-p.E. pullata.littoral.SPOM                    0.029 0.031 0.001 0.002 0.008
-p.F. escambia.littoral.SPOM                   0.042 0.051 0.001 0.002 0.007
-p.A. hartfieldorum .littoral.veg              0.541 0.088 0.376 0.395 0.475
-p.E. pullata.littoral.veg                     0.522 0.094 0.350 0.370 0.456
-p.F. escambia.littoral.veg                    0.565 0.100 0.375 0.401 0.492
-                                                50%   75%   95% 97.5%
-Epsilon.1                                     0.034 0.053 0.093 0.111
-Epsilon.2                                     0.707 0.883 1.179 1.307
-p.A. hartfieldorum .epilimnion.SPOM           0.023 0.051 0.107 0.127
-p.E. pullata.epilimnion.SPOM                  0.014 0.036 0.096 0.121
-p.F. escambia.epilimnion.SPOM                 0.015 0.043 0.126 0.155
-p.A. hartfieldorum .hypolimnion.SPOM          0.024 0.050 0.125 0.164
-p.E. pullata.hypolimnion.SPOM                 0.015 0.037 0.094 0.115
-p.F. escambia.hypolimnion.SPOM                0.014 0.037 0.115 0.151
-p.A. hartfieldorum .limnetic.FPOM             0.073 0.119 0.199 0.230
-p.E. pullata.limnetic.FPOM                    0.141 0.241 0.380 0.415
-p.F. escambia.limnetic.FPOM                   0.046 0.097 0.222 0.274
-p.A. hartfieldorum .littoral.benthic.FPOM     0.021 0.046 0.092 0.108
-p.E. pullata.littoral.benthic.FPOM            0.013 0.038 0.106 0.131
-p.F. escambia.littoral.benthic.FPOM           0.010 0.027 0.067 0.085
-p.A. hartfieldorum .littoral.CPOM             0.029 0.058 0.133 0.162
-p.E. pullata.littoral.CPOM                    0.020 0.043 0.097 0.123
-p.F. escambia.littoral.CPOM                   0.017 0.040 0.119 0.151
-p.A. hartfieldorum .littoral.FPOM             0.073 0.132 0.234 0.257
-p.E. pullata.littoral.FPOM                    0.073 0.136 0.238 0.273
-p.F. escambia.littoral.FPOM                   0.112 0.209 0.332 0.375
-p.A. hartfieldorum .littoral.FPOM.attached    0.034 0.064 0.134 0.159
-p.E. pullata.littoral.FPOM.attached           0.027 0.066 0.171 0.201
-p.F. escambia.littoral.FPOM.attached          0.022 0.052 0.145 0.182
-p.A. hartfieldorum .littoral.FPOM.filamentous 0.029 0.066 0.153 0.185
-p.E. pullata.littoral.FPOM.filamentous        0.020 0.055 0.152 0.187
-p.F. escambia.littoral.FPOM.filamentous       0.018 0.050 0.140 0.176
-p.A. hartfieldorum .littoral.SPOM             0.026 0.053 0.128 0.157
-p.E. pullata.littoral.SPOM                    0.018 0.039 0.094 0.116
-p.F. escambia.littoral.SPOM                   0.020 0.058 0.151 0.181
-p.A. hartfieldorum .littoral.veg              0.544 0.604 0.683 0.700
-p.E. pullata.littoral.veg                     0.521 0.588 0.678 0.701
-p.F. escambia.littoral.veg                    0.564 0.640 0.724 0.747
+               Mean    SD  2.5%    5%   25%   50%   75%   95% 97.5%
+Epsilon.1     0.084 0.024 0.045 0.050 0.068 0.082 0.098 0.127 0.137
+Epsilon.2     0.137 0.049 0.057 0.068 0.102 0.131 0.166 0.225 0.250
+p.global.CPOM 0.028 0.025 0.001 0.002 0.009 0.020 0.039 0.078 0.094
+p.global.FPOM 0.962 0.026 0.895 0.910 0.948 0.967 0.981 0.993 0.996
+p.global.SPOM 0.011 0.010 0.000 0.001 0.003 0.008 0.015 0.032 0.038
